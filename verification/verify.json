@@ -1,0 +1,105 @@
+{
+    "measure": [
+      {
+        "name": "hematies",
+        "min": 5800,
+        "max": 4300000
+      },
+      {
+        "name": "hemoglobine",
+        "min": 13.0,
+        "max": 17.0
+      },
+      {
+        "name": "hematocrite",
+        "min": 39.0,
+        "max": 49.0
+      },
+      {
+        "name": "volume_globulaire_moyen",
+        "min": 78,
+        "max": 97
+      },
+      {
+        "name": "t_c_m_h",
+        "min": 26.0,
+        "max": 33.0
+      },
+      {
+        "name": "c_c_m_h",
+        "min": 32.0,
+        "max": 36.0
+      },
+      {
+        "name": "leucocytes",
+        "min": 4000,
+        "max": 11000
+      },
+      {
+        "name": "polynucleaires_neutrophiles",
+        "min": 1800,
+        "max": 6900
+      },
+      {
+        "name": "polynucleaires_eosinophiles",
+        "min": 45,
+        "max": 630
+      },
+      {
+        "name": "polynucleaires_basophiles",
+        "min": 0,
+        "max": 100
+      },
+      {
+        "name": "lymphocytes",
+        "min": 1200,
+        "max": 4000
+      },
+      {
+        "name": "monocytes",
+        "min": 180,
+        "max": 1000
+      },
+      {
+        "name": "plaquettes",
+        "min": 150000,
+        "max": 400000
+      },
+      {
+        "name": "glycemie_a_jeun",
+        "min": 0.82,
+        "max": 1.15
+      },
+      {
+        "name": "cholesterol_total",
+        "min": "",
+        "max": 2.00
+      },
+      {
+        "name": "cholesterol_hdl",
+        "min": 0.40,
+        "max": ""
+      },
+      {
+        "name": "ldl_calc",
+        "min": "",
+        "max": ""
+      },
+      {
+        "name": "triglycerides",
+        "min": "",
+        "max": 1.50
+      },
+      {
+        "name": "creatinine",
+        "min": 6.7,
+        "max": 11.7
+      },
+      {
+        "name": "debit_filtration_glomerulaire",
+        "min": "",
+        "max": ""
+      }
+
+    ]
+  }
